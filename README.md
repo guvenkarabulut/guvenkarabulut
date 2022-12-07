@@ -37,10 +37,10 @@
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=guven07&langs_count=8&layout=compact&theme=dark" />
+ <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=guven07&langs_count=8&layout=compact&theme=dark" />
 </a> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img height=200px src="https://github-readme-stats.vercel.app/api?username=guven07&theme=dark" />
+ <img height=180px src="https://github-readme-stats.vercel.app/api?username=guven07&theme=dark" />
 </a> 
 
 
