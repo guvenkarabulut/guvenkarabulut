@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @guven07</h1>
+<h1 align="center">Hi 👋, I'm @guvenkarabulut</h1>
 <h3 align="center">I’m interested in Computer Science</h3>
 
 - 🔭 I’m currently working in [Paü Genç Yazılımcılar](https://github.com/GencYazilimcilar)
@@ -37,10 +37,10 @@
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=guven07&langs_count=8&layout=compact&theme=dark" />
+ <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=dark" />
 </a> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img height=180px src="https://github-readme-stats.vercel.app/api?username=guven07&theme=dark" />
+ <img height=180px src="https://github-readme-stats.vercel.app/api?username=guvenkarabulut&theme=dark" />
 </a> 
 
 
