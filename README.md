@@ -4,7 +4,6 @@
 - 🔭 I’m currently working in [Paü Genç Yazılımcılar](https://github.com/GencYazilimcilar)
 
 - 🌱 I’m currently learning **JavaScript**
-
 <br>
 
 
