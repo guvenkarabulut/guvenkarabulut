@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working in [Paü Genç Yazılımcılar](https://github.com/GencYazilimcilar)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning `ReactJs`, `NodeJs`, `.js`
+
 <br>
 
 
