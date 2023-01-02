@@ -5,15 +5,13 @@
 
 - 🌱 I’m currently learning ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-
 <br>
 
+<img width=100% align="" src="https://readme-jokes.vercel.app/api">
 
 ## 👋 Connect with me
-<p align="left">
-<a href="https://instagram.com/guven94372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guven94372" height="30" width="40" /></a>
-</p>
-
+ <a href="https://instagram.com/guven94372" target="blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ <a href="https://leetcode.com/guvenkarabulut/" target="blank"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 <br>
 
 ## 👩‍💻 Languages and Tools
@@ -52,6 +50,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img height=180px src="https://github-readme-stats.vercel.app/api?username=guvenkarabulut&theme=dark" />
 </a> 
-
-
 
