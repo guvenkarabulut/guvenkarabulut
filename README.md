@@ -44,10 +44,10 @@
 
 <br/>
 
-<a>
+<a href="https://github-readme-stats-guven.vercel.app">
  <img height=180px src="https://github-readme-stats-guven.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=dark" />
 </a> 
-<a>
+<a href="https://github-readme-stats-guven.vercel.app">
  <img height=180px src="https://github-readme-stats-guven.vercel.app/api?username=guvenkarabulut&theme=dark" />
 </a> 
 
