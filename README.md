@@ -44,10 +44,10 @@
 
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=dark" />
+<a>
+ <img height=180px src="https://github-readme-stats-guven.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=dark" />
 </a> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img height=180px src="https://github-readme-stats.vercel.app/api?username=guvenkarabulut&theme=dark" />
+<a>
+ <img height=180px src="https://github-readme-stats-guven.vercel.app/api?username=guvenkarabulut&theme=dark" />
 </a> 
 
