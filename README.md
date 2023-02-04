@@ -43,18 +43,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-<!--
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ## &#x1f4c8; GitHub Stats
 
 <br/>
 
 <a href="https://github-readme-stats-guven.vercel.app">
- <img height=180px src="https://github-readme-stats-guven.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=gruvbox" />
+ <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=gruvbox" />
 </a> 
 <a href="https://github-readme-stats-guven.vercel.app">
- <img height=180px src="https://github-readme-stats-guven.vercel.app/api?username=guvenkarabulut&theme=gruvbox&show_icons=true" />
+ <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api?username=guvenkarabulut&theme=gruvbox&show_icons=true" />
 </a> 
--->
+
