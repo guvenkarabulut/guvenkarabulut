@@ -3,9 +3,10 @@
 
 - 🚩 I’m currently working in [Paü Genç Yazılımcılar](https://github.com/GencYazilimcilar) and [Paü IT Departmant](https://www.pau.edu.tr/).
 - 🔭 I'm currently working on Mobile app development with flutter.
-- 🌱 I’m currently learning ```.dart``` ```flutter``` ```flask```
+- 🌱 I’m currently learning ```.dart``` ```flutter``` 
 
-<img width=100% align="" src="https://readme-jokes.vercel.app/api">
+[//]: <> (<img width=100% align="" src="https://readme-jokes.vercel.app/api">)
+
 
 ## 🤝 Connect with me
  <a href="https://instagram.com/guven94372" target="blank"> <img src="https://img.shields.io/badge/Instagram-7a7a7a.svg?style=for-the-badge&logo=Instagram&logoColor=ffffff&labelColor=E4405F" /></a>
@@ -53,4 +54,22 @@
 <a href="https://github-readme-stats-guven.vercel.app">
  <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api?username=guvenkarabulut&theme=gruvbox&show_icons=true" />
 </a> 
+<br/>
+<br/>
+
+<details>
+    <summary>🔥 Github Streaks</summary>
+     <samp>
+      <img src="https://streak-stats.demolab.com?user=guvenkarabulut&theme=gruvbox&border=EBEBEB" />
+      </samp>
+ </details>
+ 
+ <details>
+    <summary>🏆 Github Throphy</summary>
+     <samp>
+      <img src="https://github-profile-trophy.vercel.app/?username=guvenkarabulut&theme=gruvbox" />
+      </samp>
+ </details>
+ 
+
 
