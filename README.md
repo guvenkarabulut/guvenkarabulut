@@ -10,6 +10,8 @@
 
 ## 🤝 Connect with me
  <a href="https://instagram.com/guven94372" target="blank"> <img src="https://img.shields.io/badge/Instagram-7a7a7a.svg?style=for-the-badge&logo=Instagram&logoColor=ffffff&labelColor=E4405F" /></a>
+ <a href="guven.07.568@gmail.com" target="blank"> <img src="https://img.shields.io/badge/GMail-7a7a7a.svg?style=for-the-badge&logo=Gmail&logoColor=ffffff&labelColor=0A66C2" /></a>
+  <a href="https://www.linkedin.com/in/güven-karabulut-b34b96260/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-7a7a7a.svg?style=for-the-badge&logo=LinkedIn&logoColor=ffffff&labelColor=EA4335" /></a>
  <a href="https://leetcode.com/guvenkarabulut/" target="blank"> <img src="https://img.shields.io/badge/LeetCode-7a7a7a.svg?style=for-the-badge&logo=LeetCode&logoColor=ffffff&labelColor=FFA116" /></a>
 <br>
 ## 🛠️ My Favorite Languages and Tools
