@@ -38,6 +38,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-7a7a7a.svg?style=for-the-badge&logo=MongoDB&logoColor=ffffff&labelColor=47A248)
 ![Firebase](https://img.shields.io/badge/FireBase-7a7a7a.svg?style=for-the-badge&logo=Firebase&logoColor=ffffff&labelColor=FFCA28)
 
+![Git](https://img.shields.io/badge/Git-7a7a7a.svg?style=for-the-badge&logo=Git&logoColor=white&labelColor=f05032)
+![GitHub](https://img.shields.io/badge/Github-7a7a7a.svg?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717)
 ![Arduino](https://img.shields.io/badge/Arduino-7a7a7a.svg?style=for-the-badge&logo=Arduino&logoColor=ffffff&labelColor=00979D)
 ![Postman](https://img.shields.io/badge/Postman-7a7a7a.svg?style=for-the-badge&logo=Postman&logoColor=ffffff&labelColor=FF6C37)
 ![Visual Studio Code](https://img.shields.io/badge/VSCODE-7a7a7a.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff&labelColor=007ACC)
