@@ -48,6 +48,8 @@
 ![Fedora](https://img.shields.io/badge/Fedora-7a7a7a.svg?style=for-the-badge&logo=Fedora&logoColor=ffffff&labelColor=51A2DA)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guvenkarabulut&repo=badge-creator&theme=dracula&show_owner=true)](https://github.com/guvenkarabulut/badge-creator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guvenkarabulut&repo=markdown-profile-badges&theme=dracula&show_owner=true)](https://github.com/guvenkarabulut/markdown-profile-badges)
+
 
 
 
@@ -56,7 +58,7 @@
 <br/>
 
 <a href="https://github-readme-stats-guven.vercel.app">
- <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=dracula" />
+ <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=dracula&hide=swift" />
 </a> 
 <a href="https://github-readme-stats-guven.vercel.app">
  <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api?username=guvenkarabulut&theme=dracula&show_icons=true" />
@@ -77,6 +79,3 @@
       <img src="https://github-profile-trophy.vercel.app/?username=guvenkarabulut&theme=dracula" />
       </samp>
  </details>
- 
-
-
