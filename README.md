@@ -58,7 +58,7 @@
 <br/>
 
 <a href="https://github-readme-stats-guven.vercel.app">
- <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=dracula&hide=swift" />
+ <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=dracula&hide=swift&exclude_repo=music-site-old-project" />
 </a> 
 <a href="https://github-readme-stats-guven.vercel.app">
  <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api?username=guvenkarabulut&theme=dracula&show_icons=true" />
