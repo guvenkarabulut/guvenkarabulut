@@ -6,7 +6,7 @@
 - 🤝 Looking to collaborate on any open source project
 - 📚 Learning everything about Frontend and Backend technologies 
 
-[//]: <> (<img width=100% align="" src="https://readme-jokes.vercel.app/api">)
+<img width=100% align="" src="https://readme-jokes.vercel.app/api">
 
 
 ## 🤝 Connect with me
@@ -21,10 +21,9 @@
 ![badge](https://img.shields.io/badge/Code-Spring&#32;Boot-7a7a7a.svg?style=for-the-badge&logo=SpringBoot&logoColor=white&labelColor=6db33f)
 ![badge](https://img.shields.io/badge/Code-Tailwind&#32;CSS-7a7a7a.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white&labelColor=06b6d4)
 ![badge](https://img.shields.io/badge/Code-ThreeJS-7a7a7a.svg?style=for-the-badge&logo=Three.js&logoColor=white&labelColor=000000)
-
+![badge](https://img.shields.io/badge/Architecture-Microservices-7a7a7a.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAI4SURBVDiNfZNdSFNhGMd/7zmbZjY/0onZlRSkNzFBKBC6UASh8CaswAq0VCgppO6ClpBXBYkg5mdJRkHdFGmahBBFQ4xOCVqU9AHlcJvTTW3b2TlvF7naxU7P3f/h9/x5/s/LK7CoiYlQiSEY0GYje7OyONbaVDCWilOsDAzBaaBi45fpiEVFuxVnaYDgIyAFoNrFvCUH8PRZqHZoZHmuq9c/mNzvvOm74e5YfJPcG50MNfTf9n/q7vdf/buBhAemSemSL97Y3Rd0JeAVb/4FoRfuS+jx8fUdQjKkx9ntXTIuJUcIAigCPiysHwKQa1dc7ouXJ911O5fkl/1HAR4/X6k3DWkC2FTMfxvYFZfNTl92nnIwvKqPyG/VLci4B6gk8jOX4Mx9OV1ybSMce+gLG64t6eKWM89eZnkTOcOwnM2LSt+pH/JdkS7v5UjZxXAq1mbpEguk8X2wiJebWqTGbACjU2uFPm+sPbAafzSrrc9BsQeoB9RNzgA8J1q/FlceyNomo7ItEhGdZ5q2v1cAhG5qcZ3m1YA56si2Hxfl9KBQDkwBLzApF+focWTYDzsdqhaJygZfQH+b/Aq5AKaEkl2ZTwBEGdqRBVndHpRVog0NoLYq566iCgUgbvyZVTbj1SkK8wVO29DZ5lwtka9i2X/dTPNOJ3RNTeaiFDTabXwuLFA7/nMaGJsMNSHpfT29IfKdtjvnW/JPpuKs/4JkDyAkYOiy1AqzNFAlA8CrrRlKOC1duq243xz74UmVnYh+AAAAAElFTkSuQmCC&logoColor=white&labelColor=6b475a)
    
 ## 🛠️ My Favorite Languages and Tools
-
 
 ![C#](https://img.shields.io/badge/C%23-7a7a7a.svg?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=239120)
 ![java](https://img.shields.io/badge/Java-7a7a7a.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAACWElEQVR4nM3XW4iNURgG4M1kMGTMBcUkDVGSMg4XDmlMUszUqEkx5gJFUsoFEVdKITcol8SFQ3KKcqHkVHIK5RBhcqG4UTIkiker+ab+NtPYu72Ht9bFfv+91ru+b33r/f4/lysBMAbDS7FWQcAStOX6EhiJF2jtS9HJIZpGZV+JrsFnfML04KrRjp0YX2rBYTitC52YF/zG+J2e1ZRadCBuh+hHzA5+bXB70K+koglYFQI/MDfD38M3VOTKAawO4fN5/NXgp5VLeAhe4Sn6Z/j5+ImjZRFOwCS8w4pcBjiGZ7lyQpdFnkwVnuH2pcoutVAtGtCY7mpwAzAxcwSNeXNGoxljixFsxZsonJTKql7+X4FR6fxToaUzx1fUFyq8PpypG8kgXuMhbuF+ZjzGNczKzB8UV297MVFXYiUOhU0ms1iOpWhJ0fTkVJgZG24vthEkc3iLbSHWEsJtwZ3BOdRl5lVFZu4W1UDCJnfguT8jpfJlZGRBzKmJmtiNoQWL5m2gPiKbmrpRjAnRjxfnWeiIktknnkSE73EzmkUHvgefnGtTScSywJxoeR1R3Z3hYDewHwuzNlowdN3DK/iCIymdRdpqU6GTNkfq7hRzTlFYZ3G4GHt8FOKpEx3AslQ8yf5i4e5RG8W2KK7VhXgdupyKLrNm5d+KJ8trwkFcx4cerlJ3UaUNnsJWTMlbZ0Oq+oKiz9tMdUQ4Lny4rqeXeAwOc0k2uqvg16Hw2rreUhWdagrW4URk6DhmFBjfb17dED69BXujF6fUXsKDGBfjWfM/+ZzJ/e/4BdKQrh9ckm5OAAAAAElFTkSuQmCC&logoColor=ffffff&labelColor=E34F26) 
