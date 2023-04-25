@@ -17,10 +17,10 @@
 <br>
 
 ## 🌱 Currently Learning 
+![badge](https://img.shields.io/badge/Code-TypeScript-7a7a7a.svg?style=for-the-badge&logo=TypeScript&logoColor=ffffff&labelColor=3178c6)
 ![badge](https://img.shields.io/badge/Code-Spring-7a7a7a.svg?style=for-the-badge&logo=Spring&logoColor=white&labelColor=6db33f)
 ![badge](https://img.shields.io/badge/Code-Spring&#32;Boot-7a7a7a.svg?style=for-the-badge&logo=SpringBoot&logoColor=white&labelColor=6db33f)
-![badge](https://img.shields.io/badge/Code-Tailwind&#32;CSS-7a7a7a.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white&labelColor=06b6d4)
-![badge](https://img.shields.io/badge/Code-ThreeJS-7a7a7a.svg?style=for-the-badge&logo=Three.js&logoColor=white&labelColor=000000)
+![badge](https://img.shields.io/badge/Code-Spring&#32;Security-7a7a7a.svg?style=for-the-badge&logo=Spring&#32;Security&logoColor=ffffff&labelColor=6db33f)
 ![badge](https://img.shields.io/badge/Architecture-Microservices-7a7a7a.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAI4SURBVDiNfZNdSFNhGMd/7zmbZjY/0onZlRSkNzFBKBC6UASh8CaswAq0VCgppO6ClpBXBYkg5mdJRkHdFGmahBBFQ4xOCVqU9AHlcJvTTW3b2TlvF7naxU7P3f/h9/x5/s/LK7CoiYlQiSEY0GYje7OyONbaVDCWilOsDAzBaaBi45fpiEVFuxVnaYDgIyAFoNrFvCUH8PRZqHZoZHmuq9c/mNzvvOm74e5YfJPcG50MNfTf9n/q7vdf/buBhAemSemSL97Y3Rd0JeAVb/4FoRfuS+jx8fUdQjKkx9ntXTIuJUcIAigCPiysHwKQa1dc7ouXJ911O5fkl/1HAR4/X6k3DWkC2FTMfxvYFZfNTl92nnIwvKqPyG/VLci4B6gk8jOX4Mx9OV1ybSMce+gLG64t6eKWM89eZnkTOcOwnM2LSt+pH/JdkS7v5UjZxXAq1mbpEguk8X2wiJebWqTGbACjU2uFPm+sPbAafzSrrc9BsQeoB9RNzgA8J1q/FlceyNomo7ItEhGdZ5q2v1cAhG5qcZ3m1YA56si2Hxfl9KBQDkwBLzApF+focWTYDzsdqhaJygZfQH+b/Aq5AKaEkl2ZTwBEGdqRBVndHpRVog0NoLYq566iCgUgbvyZVTbj1SkK8wVO29DZ5lwtka9i2X/dTPNOJ3RNTeaiFDTabXwuLFA7/nMaGJsMNSHpfT29IfKdtjvnW/JPpuKs/4JkDyAkYOiy1AqzNFAlA8CrrRlKOC1duq243xz74UmVnYh+AAAAAElFTkSuQmCC&logoColor=white&labelColor=6b475a)
    
 ## 🛠️ My Favorite Languages and Tools
@@ -42,6 +42,8 @@
 ![Express](https://img.shields.io/badge/Express.js-7a7a7a.svg?style=for-the-badge&logo=Express&logoColor=ffffff&labelColor=000000)
 ![Node.js](https://img.shields.io/badge/Node.js-7a7a7a.svg?style=for-the-badge&logo=Node.js&logoColor=ffffff&labelColor=339933)
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7a7a7a.svg?style=for-the-badge&logo=Bootstrap&logoColor=ffffff&labelColor=7952B3)
+![badge](https://img.shields.io/badge/Code-Tailwind&#32;CSS-7a7a7a.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white&labelColor=06b6d4)
+![badge](https://img.shields.io/badge/Code-ThreeJS-7a7a7a.svg?style=for-the-badge&logo=Three.js&logoColor=white&labelColor=000000)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-7a7a7a.svg?style=for-the-badge&logo=MongoDB&logoColor=ffffff&labelColor=47A248)
 ![Firebase](https://img.shields.io/badge/FireBase-7a7a7a.svg?style=for-the-badge&logo=Firebase&logoColor=ffffff&labelColor=FFCA28)
