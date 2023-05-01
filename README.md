@@ -14,6 +14,8 @@
  <a href="guven.07.568@gmail.com" target="blank"> <img src="https://img.shields.io/badge/GMail-7a7a7a.svg?style=for-the-badge&logo=Gmail&logoColor=ffffff&labelColor=0A66C2" /></a>
   <a href="https://www.linkedin.com/in/güven-karabulut-b34b96260/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-7a7a7a.svg?style=for-the-badge&logo=LinkedIn&logoColor=ffffff&labelColor=EA4335" /></a>
  <a href="https://leetcode.com/guvenkarabulut/" target="blank"> <img src="https://img.shields.io/badge/LeetCode-7a7a7a.svg?style=for-the-badge&logo=LeetCode&logoColor=ffffff&labelColor=FFA116" /></a>
+ <a href="https://guvenkarabulut.netlify.app/" target="blank"> <img src="https://img.shields.io/badge/Portfolio-7a7a7a.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFvSURBVDiNpZLLLgNhGIaffzr+MUzTdIKFw6YLiivA0kJiI3HaugBL1+JO2BEJsSk7p0YEcer0r46ZoWNSqhYOQScS+i6/w5P3+/IK3nQ1MTHZMzoyxk9lMhlMs62hPjs3dQ30ag2dP+rfAAH3TQEW6UjGAlKpFJqmYRgGQggsq51EIoFpmui63gBqqEzPTOEUHISmEUURg4NZ7lwPK2mxv3eI7wcAdEu9m2qMg8JNgVxul1qtRuAHeJ5PJQwp35Y/lwHm9ZSIPeH5uYZt2zxVnyiXXc5OzwkrIa7rMTScRUr5+wmdXZ08PFRQqsRAth9DGrRIiZQt+H6AbadxnCJGmjphjIP1tQ1yuR2i6JGtzW18P0CpEvmjY8LwEccpAtA7/vIS60ApBcDJySkAFxeXn0lUxdLP8f/ngD6z2hxgocttDvCujx+s9JnJ+XRdtFetNvV1oI44qL/nHqBVhnZSev0gVr+Rjsgu5RlY/quDV69fg8EI8d6XAAAAAElFTkSuQmCC&logoColor=white&labelColor=e6e6e6" /></a>
+ 
 <br>
 
 ## 🌱 Currently Learning 
