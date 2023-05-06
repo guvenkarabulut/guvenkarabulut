@@ -63,8 +63,8 @@
 ![Linux](https://img.shields.io/badge/Linux-7a7a7a.svg?style=for-the-badge&logo=Linux&logoColor=ffffff&labelColor=FCC624)
 ![Fedora](https://img.shields.io/badge/Fedora-7a7a7a.svg?style=for-the-badge&logo=Fedora&logoColor=ffffff&labelColor=51A2DA)
 
-[![Readme Card](https://github-readme-stats-bnqo.vercel.app/api/pin/?username=guvenkarabulut&repo=badge-creator&theme=dracula&show_owner=true)](https://github.com/guvenkarabulut/badge-creator)
-[![Readme Card](https://github-readme-stats-bnqo.vercel.app/api/pin/?username=guvenkarabulut&repo=markdown-profile-badges&theme=dracula&show_owner=true)](https://github.com/guvenkarabulut/markdown-profile-badges)
+[![Readme Card](https://github-readme-stats-bnqo.vercel.app/api/pin/?username=guvenkarabulut&repo=badge-creator&theme=gruvbox&show_owner=true)](https://github.com/guvenkarabulut/badge-creator)
+[![Readme Card](https://github-readme-stats-bnqo.vercel.app/api/pin/?username=guvenkarabulut&repo=markdown-profile-badges&theme=gruvbox&show_owner=true)](https://github.com/guvenkarabulut/markdown-profile-badges)
 
 
 ## &#x1f4c8; GitHub Stats
@@ -72,10 +72,10 @@
 <br/>
 
 <a href="https://github-readme-stats-guven.vercel.app">
- <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=dracula&hide=swift&exclude_repo=music-site-old-project" />
+ <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=gruvbox&hide=swift&exclude_repo=music-site-old-project" />
 </a> 
 <a href="https://github-readme-stats-guven.vercel.app">
- <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api?username=guvenkarabulut&theme=dracula&show_icons=true" />
+ <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api?username=guvenkarabulut&theme=gruvbox&show_icons=true" />
 </a> 
 <br/>
 <br/>
@@ -83,13 +83,13 @@
 <details>
     <summary>🔥 Github Streaks</summary>
      <samp>
-      <img src="https://streak-stats.demolab.com?user=guvenkarabulut&theme=dracula&border=EBEBEB" />
+      <img src="https://streak-stats.demolab.com?user=guvenkarabulut&theme=gruvbox&border=EBEBEB" />
       </samp>
  </details>
  
  <details>
     <summary>🏆 Github Throphy</summary>
      <samp>
-      <img src="https://github-profile-trophy.vercel.app/?username=guvenkarabulut&theme=dracula" />
+      <img src="https://github-profile-trophy.vercel.app/?username=guvenkarabulut&theme=gruvbox" />
       </samp>
  </details>
