@@ -44,8 +44,8 @@
 ![Express](https://img.shields.io/badge/Express.js-7a7a7a.svg?style=for-the-badge&logo=Express&logoColor=ffffff&labelColor=000000)
 ![Node.js](https://img.shields.io/badge/Node.js-7a7a7a.svg?style=for-the-badge&logo=Node.js&logoColor=ffffff&labelColor=339933)
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7a7a7a.svg?style=for-the-badge&logo=Bootstrap&logoColor=ffffff&labelColor=7952B3)
-![badge](https://img.shields.io/badge/Code-Tailwind&#32;CSS-7a7a7a.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white&labelColor=06b6d4)
-![badge](https://img.shields.io/badge/Code-ThreeJS-7a7a7a.svg?style=for-the-badge&logo=Three.js&logoColor=white&labelColor=000000)
+![badge](https://img.shields.io/badge/Tailwind&#32;CSS-7a7a7a.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white&labelColor=06b6d4)
+![badge](https://img.shields.io/badge/ThreeJS-7a7a7a.svg?style=for-the-badge&logo=Three.js&logoColor=white&labelColor=000000)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-7a7a7a.svg?style=for-the-badge&logo=MongoDB&logoColor=ffffff&labelColor=47A248)
 ![Firebase](https://img.shields.io/badge/FireBase-7a7a7a.svg?style=for-the-badge&logo=Firebase&logoColor=ffffff&labelColor=FFCA28)
