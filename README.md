@@ -65,7 +65,7 @@
 
 [![Readme Card](https://github-readme-stats-bnqo.vercel.app/api/pin/?username=guvenkarabulut&repo=badge-creator&theme=gruvbox&show_owner=true)](https://github.com/guvenkarabulut/badge-creator)
 [![Readme Card](https://github-readme-stats-bnqo.vercel.app/api/pin/?username=guvenkarabulut&repo=markdown-profile-badges&theme=gruvbox&show_owner=true)](https://github.com/guvenkarabulut/markdown-profile-badges)
-
+[![Readme Card](https://github-readme-stats-bnqo.vercel.app/api/pin/?username=guvenkarabulut&repo=shields-io-clone&theme=gruvbox&show_owner=true)](https://github.com/guvenkarabulut/shields-io-clone)
 
 ## &#x1f4c8; GitHub Stats
 
