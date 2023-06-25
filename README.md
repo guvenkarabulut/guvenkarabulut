@@ -1,11 +1,11 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=hello%20I'm%20@guvenkarabulut&width=2000&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=hello%20I'm%20@guvenkarabulut&text2=A%20Junior%20Backend%20Developer&width=2000&height=400)](https://github.com/Akshay090/svg-banners)
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="400"/>
 
 
-- 🚩 Currently working in [Paü Genç Yazılımcılar](https://github.com/GencYazilimcilar) and [Paü IT Departmant](https://www.pau.edu.tr/).
+- 🚩 Currently working in [Paü Genç Yazılımcılar](https://github.com/GencYazilimcilar).
 - 🔭 Currently working on Mobile app development with flutter.
-- 🤝 Looking to collaborate on any open source project
-- 📚 Learning everything about Frontend and Backend technologies 
+- 🤝 Looking to collaborate on any open source project.
+- 📚 Learning everything about Frontend and Backend technologies.
 
 
 
