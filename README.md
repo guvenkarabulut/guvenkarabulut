@@ -6,7 +6,7 @@
 - 🔭 Currently working on Mobile app development with flutter.
 - 🤝 Looking to collaborate on any open source project.
 - 📚 Learning everything about Frontend and Backend technologies.
-
+- 🎸 My current favorite music album [Joss Stone: Colour Me Free](https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL).
 
 
 ## 🤝 Connect with me
