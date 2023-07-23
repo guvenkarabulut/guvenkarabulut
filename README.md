@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/Tool-Apache Kafka-7a7a7a.svg?style=for-the-badge&logo=Apache Kafka&logoColor=ffffff&labelColor=231f20" alt="badge" />
 <img src="https://img.shields.io/badge/Code-Go-7a7a7a.svg?style=for-the-badge&logo=Go&logoColor=ffffff&labelColor=00add8" alt="badge" />
 <img src="https://img.shields.io/badge/Tool-Kubernetes-7a7a7a.svg?style=for-the-badge&logo=Kubernetes&logoColor=ffffff&labelColor=326ce5" alt="badge" />
+![badge](https://img.shields.io/badge/Code-Rust-7e7e7e.svg?style=for-the-badge&logo=Rust&logoColor=white&labelColor=000000)
 
 
 ## 🛠️ My Favorite Languages and Tools
