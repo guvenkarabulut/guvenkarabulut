@@ -1,3 +1,6 @@
+<div align="center">
+
+
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=hello%20I'm%20@guvenkarabulut&text2=A%20Junior%20Backend%20Developer&width=2000&height=400)](https://github.com/Akshay090/svg-banners)
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="400"/>
 
@@ -19,6 +22,8 @@
 <br>
 
 ## 🌱 Learning List
+
+ 
 ![badge](https://img.shields.io/badge/Code-TypeScript-7a7a7a.svg?style=for-the-badge&logo=TypeScript&logoColor=ffffff&labelColor=3178c6)
 ![badge](https://img.shields.io/badge/Code-Spring-7a7a7a.svg?style=for-the-badge&logo=Spring&logoColor=white&labelColor=6db33f)
 ![badge](https://img.shields.io/badge/Code-Spring&#32;Boot-7a7a7a.svg?style=for-the-badge&logo=SpringBoot&logoColor=white&labelColor=6db33f)
@@ -30,7 +35,7 @@
 <img src="https://img.shields.io/badge/Code-Go-7a7a7a.svg?style=for-the-badge&logo=Go&logoColor=ffffff&labelColor=00add8" alt="badge" />
 <img src="https://img.shields.io/badge/Tool-Kubernetes-7a7a7a.svg?style=for-the-badge&logo=Kubernetes&logoColor=ffffff&labelColor=326ce5" alt="badge" />
 ![badge](https://img.shields.io/badge/Code-Rust-7e7e7e.svg?style=for-the-badge&logo=Rust&logoColor=white&labelColor=000000)
-
+<img src="https://img.shields.io/badge/Tool-Redis-7a7a7a.svg?style=for-the-badge&logo=Redis&logoColor=white&labelColor=dc382d" alt="badge" />
 
 ## 🛠️ My Favorite Languages and Tools
 
@@ -62,6 +67,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCODE-7a7a7a.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff&labelColor=007ACC)
 ![IntellijIDEA](https://img.shields.io/badge/Intellij&#32;Idea-7a7a7a.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white&labelColor=009de0)
+![Clion](https://img.shields.io/badge/CLion-7a7a7a.svg?style=for-the-badge&logo=CLion&logoColor=white&labelColor=000000)
 ![DataGrip](https://img.shields.io/badge/DataGrip-7a7a7a.svg?style=for-the-badge&logo=DataGrip&logoColor=white&labelColor=00c24a)
 ![Git](https://img.shields.io/badge/Git-7a7a7a.svg?style=for-the-badge&logo=Git&logoColor=white&labelColor=f05032)
 ![GitHub](https://img.shields.io/badge/Github-7a7a7a.svg?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=181717)
@@ -79,13 +85,14 @@
 <br/>
 
 <a href="https://github-readme-stats-guven.vercel.app">
- <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=gruvbox&hide=swift&exclude_repo=music-site-old-project" />
+ <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=gruvbox&hide=swift,html,css,scss&exclude_repo=music-site-old-project" />
 </a> 
 <a href="https://github-readme-stats-guven.vercel.app">
  <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api?username=guvenkarabulut&theme=gruvbox&show_icons=true" />
 </a> 
 <br/>
 <br/>
+
 
 <details>
     <summary>🔥 Github Streaks</summary>
@@ -100,3 +107,4 @@
       <img src="https://github-profile-trophy.vercel.app/?username=guvenkarabulut&theme=gruvbox" />
       </samp>
  </details>
+</div>
