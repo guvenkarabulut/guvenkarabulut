@@ -1,4 +1,3 @@
-<div align="center">
 
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=hello%20I'm%20@guvenkarabulut&text2=A%20Junior%20Backend%20Developer&width=2000&height=400)](https://github.com/Akshay090/svg-banners)
@@ -58,6 +57,7 @@
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7a7a7a.svg?style=for-the-badge&logo=Bootstrap&logoColor=ffffff&labelColor=7952B3)
 ![badge](https://img.shields.io/badge/Tailwind&#32;CSS-7a7a7a.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white&labelColor=06b6d4)
 ![badge](https://img.shields.io/badge/ThreeJS-7a7a7a.svg?style=for-the-badge&logo=Three.js&logoColor=white&labelColor=000000)
+![badge](https://img.shields.io/badge/Flask-7a7a7a.svg?style=for-the-badge&logo=Flask&logoColor=white&labelColor=000000)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-7a7a7a.svg?style=for-the-badge&logo=MongoDB&logoColor=ffffff&labelColor=47A248)
 ![Firebase](https://img.shields.io/badge/FireBase-7a7a7a.svg?style=for-the-badge&logo=Firebase&logoColor=ffffff&labelColor=FFCA28)
@@ -75,6 +75,7 @@
 ![Figma](https://img.shields.io/badge/Figma-7a7a7a.svg?style=for-the-badge&logo=Figma&logoColor=ffffff&labelColor=F24E1E)
 ![Linux](https://img.shields.io/badge/Linux-7a7a7a.svg?style=for-the-badge&logo=Linux&logoColor=ffffff&labelColor=FCC624)
 ![Fedora](https://img.shields.io/badge/Fedora-7a7a7a.svg?style=for-the-badge&logo=Fedora&logoColor=ffffff&labelColor=51A2DA)
+<div align="center">
 
 [![Readme Card](https://github-readme-stats-bnqo.vercel.app/api/pin/?username=guvenkarabulut&repo=badge-creator&theme=gruvbox&show_owner=true)](https://github.com/guvenkarabulut/badge-creator)
 [![Readme Card](https://github-readme-stats-bnqo.vercel.app/api/pin/?username=guvenkarabulut&repo=markdown-profile-badges&theme=gruvbox&show_owner=true)](https://github.com/guvenkarabulut/markdown-profile-badges)
