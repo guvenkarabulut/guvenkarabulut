@@ -58,6 +58,8 @@
 ![badge](https://img.shields.io/badge/Tailwind&#32;CSS-7a7a7a.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white&labelColor=06b6d4)
 ![badge](https://img.shields.io/badge/ThreeJS-7a7a7a.svg?style=for-the-badge&logo=Three.js&logoColor=white&labelColor=000000)
 ![badge](https://img.shields.io/badge/Flask-7a7a7a.svg?style=for-the-badge&logo=Flask&logoColor=white&labelColor=000000)
+![badge](https://img.shields.io/badge/ElasticSearch-7a7a7a.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white&labelColor=005571)
+
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-7a7a7a.svg?style=for-the-badge&logo=MongoDB&logoColor=ffffff&labelColor=47A248)
 ![Firebase](https://img.shields.io/badge/FireBase-7a7a7a.svg?style=for-the-badge&logo=Firebase&logoColor=ffffff&labelColor=FFCA28)
