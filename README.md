@@ -24,12 +24,8 @@
 
  
 ![badge](https://img.shields.io/badge/Code-TypeScript-7a7a7a.svg?style=for-the-badge&logo=TypeScript&logoColor=ffffff&labelColor=3178c6)
-![badge](https://img.shields.io/badge/Code-Spring-7a7a7a.svg?style=for-the-badge&logo=Spring&logoColor=white&labelColor=6db33f)
-![badge](https://img.shields.io/badge/Code-Spring&#32;Boot-7a7a7a.svg?style=for-the-badge&logo=SpringBoot&logoColor=white&labelColor=6db33f)
-![badge](https://img.shields.io/badge/Code-Spring&#32;Security-7a7a7a.svg?style=for-the-badge&logo=Spring&#32;Security&logoColor=ffffff&labelColor=6db33f)
 ![badge](https://img.shields.io/badge/Architecture-Microservices-7a7a7a.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAI4SURBVDiNfZNdSFNhGMd/7zmbZjY/0onZlRSkNzFBKBC6UASh8CaswAq0VCgppO6ClpBXBYkg5mdJRkHdFGmahBBFQ4xOCVqU9AHlcJvTTW3b2TlvF7naxU7P3f/h9/x5/s/LK7CoiYlQiSEY0GYje7OyONbaVDCWilOsDAzBaaBi45fpiEVFuxVnaYDgIyAFoNrFvCUH8PRZqHZoZHmuq9c/mNzvvOm74e5YfJPcG50MNfTf9n/q7vdf/buBhAemSemSL97Y3Rd0JeAVb/4FoRfuS+jx8fUdQjKkx9ntXTIuJUcIAigCPiysHwKQa1dc7ouXJ911O5fkl/1HAR4/X6k3DWkC2FTMfxvYFZfNTl92nnIwvKqPyG/VLci4B6gk8jOX4Mx9OV1ybSMce+gLG64t6eKWM89eZnkTOcOwnM2LSt+pH/JdkS7v5UjZxXAq1mbpEguk8X2wiJebWqTGbACjU2uFPm+sPbAafzSrrc9BsQeoB9RNzgA8J1q/FlceyNomo7ItEhGdZ5q2v1cAhG5qcZ3m1YA56si2Hxfl9KBQDkwBLzApF+focWTYDzsdqhaJygZfQH+b/Aq5AKaEkl2ZTwBEGdqRBVndHpRVog0NoLYq566iCgUgbvyZVTbj1SkK8wVO29DZ5lwtka9i2X/dTPNOJ3RNTeaiFDTabXwuLFA7/nMaGJsMNSHpfT29IfKdtjvnW/JPpuKs/4JkDyAkYOiy1AqzNFAlA8CrrRlKOC1duq243xz74UmVnYh+AAAAAElFTkSuQmCC&logoColor=white&labelColor=6b475a)
 <img src="https://img.shields.io/badge/Architecture-Distributed Systems-7a7a7a.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAKLSURBVDiNpZLfS1NhHMY/ZztOt/mzTqibSmU2xcLZtkCd5kWJVoiKKd11EdE/0EX0ByRIXnRbF9FFN6EFSUSIFzIXOtekH6KoZZqbkLp0ru3Ms3O6yMVEL4Key4fP+7zf93m/Qnl5xUOny9UhiqL2+dNHcXo64Aa+2myVfqfrvAQw5Ztcn5ubdQAn7PZaT/WZs4qiKMKUz/dSZzIZs7p7ekslSSpr7+zKZE+2yqpEjd1eVmO3l9kqqxIpv72zK1OSpLLunt5Sk8mYpeM/JcpyfLS/737xysryyaPHpEUgArC4MD8xNzurAIii3r/HR4YGn3s3fqyXv/N6v8hyfFRIJRn0wmChKfNVVFYnNxOJGQARLpoN4qW8THFmORIfSoVn6HQDRWbDh0RSWxeLck1teqhzSHktrsIjbcNLIc9EaLPTmmvuytIJt3pPW52bsYQw/C2kxLWMKaOeunxRd62nouT2i8XVqNhQanl0t9FpTU0yEtpKluTKHX0t7qeVUgEAs+thXq9s6KvzcwcetLovp9j3P+WwGN9VCMfkv6UkVVURQN2Oy1o4JgsA23FZ09TkblJV1XQ2kVQ0AXAABcAN4AkwA2wADcC51GXAOCABVWlsWARSDV8ARgBdfa3lWV6OoSgS3TUC5Jgzrm5FEmveQPA6sJrGIh7ytYWtTcebGx3WQg2NJlcJAP2P/WveQLAICO3bg0MCeOtZyt6J/lm+N2NLAHgDwZzD2PQAPdAHZF9pLo/cuekwA4z5viMgkG027Hj8wXvADqCmDgkcVLHbYZmvr7WY001vIBj1+IMV//SEFvfxnUan1axp+zqIePzBA+xhExjrai3+qlMFxnRzbiH8azwQdAKxdP83tmb7hcCxa2QAAAAASUVORK5CYII=&logoColor=d34a4a&labelColor=f1ffa8" alt="badge" />
-<img src="https://img.shields.io/badge/Tool-Docker-7a7a7a.svg?style=for-the-badge&logo=Docker&logoColor=ffffff&labelColor=2496ed" alt="badge" />
 <img src="https://img.shields.io/badge/Tool-Apache Kafka-7a7a7a.svg?style=for-the-badge&logo=Apache Kafka&logoColor=ffffff&labelColor=231f20" alt="badge" />
 <img src="https://img.shields.io/badge/Code-Go-7a7a7a.svg?style=for-the-badge&logo=Go&logoColor=ffffff&labelColor=00add8" alt="badge" />
 <img src="https://img.shields.io/badge/Tool-Kubernetes-7a7a7a.svg?style=for-the-badge&logo=Kubernetes&logoColor=ffffff&labelColor=326ce5" alt="badge" />
@@ -49,6 +45,9 @@
 ![CSS3](https://img.shields.io/badge/Css3-7a7a7a.svg?style=for-the-badge&logo=CSS3&logoColor=ffffff&labelColor=1572B6)
 ![Arduino](https://img.shields.io/badge/Arduino-7a7a7a.svg?style=for-the-badge&logo=Arduino&logoColor=ffffff&labelColor=00979D)
 
+![badge](https://img.shields.io/badge/Code-Spring-7a7a7a.svg?style=for-the-badge&logo=Spring&logoColor=white&labelColor=6db33f)
+![badge](https://img.shields.io/badge/Code-Spring&#32;Boot-7a7a7a.svg?style=for-the-badge&logo=SpringBoot&logoColor=white&labelColor=6db33f)
+![badge](https://img.shields.io/badge/Code-Spring&#32;Security-7a7a7a.svg?style=for-the-badge&logo=Spring&#32;Security&logoColor=ffffff&labelColor=6db33f)
 ![React](https://img.shields.io/badge/REACT-7a7a7a.svg?style=for-the-badge&logo=React&logoColor=ffffff&labelColor=61DAFB)
 ![.Net](https://img.shields.io/badge/.NET-7a7a7a.svg?style=for-the-badge&logo=.NET&logoColor=ffffff&labelColor=512BD4)
 ![Flutter](https://img.shields.io/badge/FLUTTER-7a7a7a.svg?style=for-the-badge&logo=Flutter&logoColor=ffffff&labelColor=02569B)
@@ -69,6 +68,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCODE-7a7a7a.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff&labelColor=007ACC)
 ![IntellijIDEA](https://img.shields.io/badge/Intellij&#32;Idea-7a7a7a.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white&labelColor=009de0)
+<img src="https://img.shields.io/badge/Tool-Docker-7a7a7a.svg?style=for-the-badge&logo=Docker&logoColor=ffffff&labelColor=2496ed" alt="badge" />
 ![Clion](https://img.shields.io/badge/CLion-7a7a7a.svg?style=for-the-badge&logo=CLion&logoColor=white&labelColor=000000)
 ![DataGrip](https://img.shields.io/badge/DataGrip-7a7a7a.svg?style=for-the-badge&logo=DataGrip&logoColor=white&labelColor=00c24a)
 ![Git](https://img.shields.io/badge/Git-7a7a7a.svg?style=for-the-badge&logo=Git&logoColor=white&labelColor=f05032)
