@@ -45,9 +45,9 @@
 ![CSS3](https://img.shields.io/badge/Css3-7a7a7a.svg?style=for-the-badge&logo=CSS3&logoColor=ffffff&labelColor=1572B6)
 ![Arduino](https://img.shields.io/badge/Arduino-7a7a7a.svg?style=for-the-badge&logo=Arduino&logoColor=ffffff&labelColor=00979D)
 
-![badge](https://img.shields.io/badge/Code-Spring-7a7a7a.svg?style=for-the-badge&logo=Spring&logoColor=white&labelColor=6db33f)
-![badge](https://img.shields.io/badge/Code-Spring&#32;Boot-7a7a7a.svg?style=for-the-badge&logo=SpringBoot&logoColor=white&labelColor=6db33f)
-![badge](https://img.shields.io/badge/Code-Spring&#32;Security-7a7a7a.svg?style=for-the-badge&logo=Spring&#32;Security&logoColor=ffffff&labelColor=6db33f)
+![badge](https://img.shields.io/badge/Spring-7a7a7a.svg?style=for-the-badge&logo=Spring&logoColor=white&labelColor=6db33f)
+![badge](https://img.shields.io/badge/Spring&#32;Boot-7a7a7a.svg?style=for-the-badge&logo=SpringBoot&logoColor=white&labelColor=6db33f)
+![badge](https://img.shields.io/badge/Spring&#32;Security-7a7a7a.svg?style=for-the-badge&logo=Spring&#32;Security&logoColor=ffffff&labelColor=6db33f)
 ![React](https://img.shields.io/badge/REACT-7a7a7a.svg?style=for-the-badge&logo=React&logoColor=ffffff&labelColor=61DAFB)
 ![.Net](https://img.shields.io/badge/.NET-7a7a7a.svg?style=for-the-badge&logo=.NET&logoColor=ffffff&labelColor=512BD4)
 ![Flutter](https://img.shields.io/badge/FLUTTER-7a7a7a.svg?style=for-the-badge&logo=Flutter&logoColor=ffffff&labelColor=02569B)
@@ -68,7 +68,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCODE-7a7a7a.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff&labelColor=007ACC)
 ![IntellijIDEA](https://img.shields.io/badge/Intellij&#32;Idea-7a7a7a.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white&labelColor=009de0)
-<img src="https://img.shields.io/badge/Tool-Docker-7a7a7a.svg?style=for-the-badge&logo=Docker&logoColor=ffffff&labelColor=2496ed" alt="badge" />
+<img src="https://img.shields.io/badge/Docker-7a7a7a.svg?style=for-the-badge&logo=Docker&logoColor=ffffff&labelColor=2496ed" alt="badge" />
 ![Clion](https://img.shields.io/badge/CLion-7a7a7a.svg?style=for-the-badge&logo=CLion&logoColor=white&labelColor=000000)
 ![DataGrip](https://img.shields.io/badge/DataGrip-7a7a7a.svg?style=for-the-badge&logo=DataGrip&logoColor=white&labelColor=00c24a)
 ![Git](https://img.shields.io/badge/Git-7a7a7a.svg?style=for-the-badge&logo=Git&logoColor=white&labelColor=f05032)
