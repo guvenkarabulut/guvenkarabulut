@@ -1,7 +1,8 @@
 
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=hello%20I'm%20@guvenkarabulut&text2=A%20Junior%20Backend%20Developer&width=2000&height=400)](https://github.com/Akshay090/svg-banners)
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="400"/>
+
+<a href="https://app.daily.dev/gvenkarabulut"><img src="https://github.com/guvenkarabulut/guvenkarabulut/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card" /></a>
 
 
 - 🚩 Currently working in [Paü Genç Yazılımcılar](https://github.com/GencYazilimcilar).
