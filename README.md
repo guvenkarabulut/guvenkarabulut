@@ -32,13 +32,17 @@
 <img src="https://img.shields.io/badge/Docker-7a7a7a.svg?style=for-the-badge&logo=Docker&logoColor=ffffff&labelColor=2496ed" alt="badge" />
 ![badge](https://img.shields.io/badge/Postgrsql-7e7e7e.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=4169e1)
 ## &#x1f4c8; GitHub Stats
+
 <div align="center">
 <a href="https://github-readme-stats-guven.vercel.app">
- <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=gruvbox&hide=swift,html,css,scss&exclude_repo=music-site-old-project" />
+ <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=8&layout=compact&theme=gruvbox&hide=swift,html,css,scss&exclude_repo=music-site-old-project,dotfiles" />
 </a> 
 <a href="https://github-readme-stats-guven.vercel.app">
  <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api?username=guvenkarabulut&theme=gruvbox&show_icons=true" />
 </a> 
+  <a href="https://github.com/guvenkarabulut">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guvenkarabulut&theme=gruvbox"  width="470" alt="Güven Karabulut"/>
+  </a>
 </div>
 
 ## 📟 Projects I have taken on
