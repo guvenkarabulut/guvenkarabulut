@@ -18,21 +18,21 @@
 <a href="https://app.daily.dev/gvenkarabulut"><img align="right" src="https://github.com/guvenkarabulut/guvenkarabulut/blob/main/devcard.svg" width="300" alt="Guven Karabulut's Dev Card" /></a>
  
  ## 🛠️ My Favorite Languages and Tools
-![Ruby](https://neofetch-for-github.vercel.app/badge/ruby?badge_color=cc342d&border_color=cc342d)
-![Ruby On Rails](https://neofetch-for-github.vercel.app/badge/rubyonrails?badge_color=d30001&border_color=d30001)
-![Dart](https://neofetch-for-github.vercel.app/badge/dart?badge_color=0175C2&border_color=0175C2)
-![Flutter](https://neofetch-for-github.vercel.app/badge/flutter?badge_color=02569B&border_color=02569B)
-![Spring](https://neofetch-for-github.vercel.app/badge/spring?badge_color=6db33f&border_color=6db33f)
-![Spring Boot](https://neofetch-for-github.vercel.app/badge/springboot?badge_color=6db33f&border_color=6db33f)
-![Spring Security](https://neofetch-for-github.vercel.app/badge/springsecurity?badge_color=6db33f&border_color=6db33f)
-![ElasticSearch](https://neofetch-for-github.vercel.app/badge/elasticsearch?badge_color=005571&border_color=005571)
-![MongoDB](https://neofetch-for-github.vercel.app/badge/mongodb?badge_color=47A248&border_color=47A248)
-![Firebase](https://neofetch-for-github.vercel.app/badge/firebase?badge_color=FFCA28&border_color=FFCA28)
-![MySQL](https://neofetch-for-github.vercel.app/badge/mysql?badge_color=4479A1&border_color=4479A1)
-![Microsoft SQL Server](https://neofetch-for-github.vercel.app/badge/microsoftsqlserver?badge_color=CC2927&border_color=CC2927)
-![SQLite](https://neofetch-for-github.vercel.app/badge/sqlite?badge_color=003B57&border_color=003B57)
-![Docker](https://neofetch-for-github.vercel.app/badge/docker?badge_color=2496ed&border_color=2496ed)
-![PostgreSQL](https://neofetch-for-github.vercel.app/badge/postgresql?badge_color=4169e1&border_color=4169e1)
+![Ruby](https://neofetch-for-github.vercel.app/badge/ruby?badge_color=cc342d&border_color=cc342d&bg_color=fff)
+![Ruby On Rails](https://neofetch-for-github.vercel.app/badge/rubyonrails?badge_color=d30001&border_color=d30001&bg_color=fff)
+![Dart](https://neofetch-for-github.vercel.app/badge/dart?badge_color=0175C2&border_color=0175C2&bg_color=fff)
+![Flutter](https://neofetch-for-github.vercel.app/badge/flutter?badge_color=02569B&border_color=02569B&bg_color=fff)
+![Spring](https://neofetch-for-github.vercel.app/badge/spring?badge_color=6db33f&border_color=6db33f&bg_color=fff)
+![Spring Boot](https://neofetch-for-github.vercel.app/badge/springboot?badge_color=6db33f&border_color=6db33f&bg_color=fff)
+![Spring Security](https://neofetch-for-github.vercel.app/badge/springsecurity?badge_color=6db33f&border_color=6db33f&bg_color=fff)
+![ElasticSearch](https://neofetch-for-github.vercel.app/badge/elasticsearch?badge_color=005571&border_color=005571&bg_color=fff)
+![MongoDB](https://neofetch-for-github.vercel.app/badge/mongodb?badge_color=47A248&border_color=47A248&bg_color=fff)
+![Firebase](https://neofetch-for-github.vercel.app/badge/firebase?badge_color=FFCA28&border_color=FFCA28&bg_color=fff)
+![MySQL](https://neofetch-for-github.vercel.app/badge/mysql?badge_color=4479A1&border_color=4479A1&bg_color=fff)
+![Microsoft SQL Server](https://neofetch-for-github.vercel.app/badge/microsoftsqlserver?badge_color=CC2927&border_color=CC2927&bg_color=fff)
+![SQLite](https://neofetch-for-github.vercel.app/badge/sqlite?badge_color=003B57&border_color=003B57&bg_color=fff)
+![Docker](https://neofetch-for-github.vercel.app/badge/docker?badge_color=2496ed&border_color=2496ed&bg_color=fff)
+![PostgreSQL](https://neofetch-for-github.vercel.app/badge/postgresql?badge_color=4169e1&border_color=4169e1&bg_color=fff)
 
 <!-- ![java](https://img.shields.io/badge/Java-7a7a7a.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAACWElEQVR4nM3XW4iNURgG4M1kMGTMBcUkDVGSMg4XDmlMUszUqEkx5gJFUsoFEVdKITcol8SFQ3KKcqHkVHIK5RBhcqG4UTIkiker+ab+NtPYu72Ht9bFfv+91ru+b33r/f4/lysBMAbDS7FWQcAStOX6EhiJF2jtS9HJIZpGZV+JrsFnfML04KrRjp0YX2rBYTitC52YF/zG+J2e1ZRadCBuh+hHzA5+bXB70K+koglYFQI/MDfD38M3VOTKAawO4fN5/NXgp5VLeAhe4Sn6Z/j5+ImjZRFOwCS8w4pcBjiGZ7lyQpdFnkwVnuH2pcoutVAtGtCY7mpwAzAxcwSNeXNGoxljixFsxZsonJTKql7+X4FR6fxToaUzx1fUFyq8PpypG8kgXuMhbuF+ZjzGNczKzB8UV297MVFXYiUOhU0ms1iOpWhJ0fTkVJgZG24vthEkc3iLbSHWEsJtwZ3BOdRl5lVFZu4W1UDCJnfguT8jpfJlZGRBzKmJmtiNoQWL5m2gPiKbmrpRjAnRjxfnWeiIktknnkSE73EzmkUHvgefnGtTScSywJxoeR1R3Z3hYDewHwuzNlowdN3DK/iCIymdRdpqU6GTNkfq7hRzTlFYZ3G4GHt8FOKpEx3AslQ8yf5i4e5RG8W2KK7VhXgdupyKLrNm5d+KJ8trwkFcx4cerlJ3UaUNnsJWTMlbZ0Oq+oKiz9tMdUQ4Lny4rqeXeAwOc0k2uqvg16Hw2rreUhWdagrW4URk6DhmFBjfb17dED69BXujF6fUXsKDGBfjWfM/+ZzJ/e/4BdKQrh9ckm5OAAAAAElFTkSuQmCC&logoColor=ffffff&labelColor=E34F26) -->
 <!-- ![Dart](https://img.shields.io/badge/DART-7a7a7a.svg?style=for-the-badge&logo=Dart&logoColor=ffffff&labelColor=0175C2) -->
