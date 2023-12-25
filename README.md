@@ -19,7 +19,7 @@
  
  ## 🛠️ My Favorite Languages and Tools
 ![Ruby](https://neofetch-for-github.vercel.app/badge/ruby?badge_color=cc342d&border_color=cc342d)
-![Ruby On Rails](https://neofetch-for-github.vercel.app/badge/dart?badge_color=d30001&border_color=d30001)
+![Ruby On Rails](https://neofetch-for-github.vercel.app/badge/rubyonrails?badge_color=d30001&border_color=d30001)
 ![Dart](https://neofetch-for-github.vercel.app/badge/dart?badge_color=0175C2&border_color=0175C2)
 ![Flutter](https://neofetch-for-github.vercel.app/badge/flutter?badge_color=02569B&border_color=02569B)
 ![Spring](https://neofetch-for-github.vercel.app/badge/spring?badge_color=6db33f&border_color=6db33f)
