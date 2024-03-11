@@ -52,7 +52,7 @@
 
 <div align="center">
 <a href="https://github-readme-stats-guven.vercel.app">
- <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=10&layout=compact&theme=gruvbox&hide=swift,html,css,scss&exclude_repo=music-site-old-project,dotfiles" />
+ <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api/top-langs/?username=guvenkarabulut&langs_count=10&layout=compact&theme=gruvbox&hide=swift,html,css,scss,php&exclude_repo=music-site-old-project,dotfiles" />
 </a> 
 <a href="https://github-readme-stats-guven.vercel.app">
  <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api?username=guvenkarabulut&theme=gruvbox&show_icons=true" />
