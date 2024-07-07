@@ -1,12 +1,10 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=hello%20👋%20I'm%20@guvenkarabulut&text2=A%20Junior%20Fullstack%20Developer%20💎&width=2000&height=400)](https://github.com/Akshay090/svg-banners)
 
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=hello%20👋%20I'm%20@guvenkarabulut&text2=A%20Junior%20Backend%20Developer&width=2000&height=400)](https://github.com/Akshay090/svg-banners)
-
-- 🚩 Currently working in [Paü Genç Yazılımcılar](https://github.com/GencYazilimcilar).
+- 🚩 Currently working in [Lab2023](https://lab2023.com/).
 - 🔭 Currently working on Fullstack Development with `Ruby` and `Ruby on Rails`
 - 🤝 Looking to collaborate on any open source project.
 - 📚 Learning everything about Computer Science.
-- 🎸 My current favorite music album [Joss Stone: Colour Me Free](https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL).
+- 🎸 My current favorite music album [Nita Strauss: The Call of the Void](https://open.spotify.com/album/6v472xKTGoBedRClrXfY45).
 
 
 ## 🤝 Connect with me
