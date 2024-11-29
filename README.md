@@ -1,6 +1,5 @@
 <!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=hello%20👋%20I'm%20@guvenkarabulut&text2=A%20Junior%20Fullstack%20Developer%20💎&width=2000&height=400)](https://github.com/Akshay090/svg-banners) -->
 ##### Hi 👋, I'm @guvenkarabulut
-- 🚩 Currently working in [Lab2023](https://lab2023.com/).
 - 🔭 Currently working on Fullstack Development with `Ruby` and `Ruby on Rails`
 - 🤝 Looking to collaborate on any open source project.
 - 📚 Learning everything about Computer Science.
